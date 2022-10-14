@@ -72,13 +72,14 @@ span{
      justify-content: center;
       align-items: center;
       text-align: center;
-      margin-top: 100px;
+      margin-top: 50px;
       padding-left: auto;
       padding-right: 50px;
     
     }
     h2{
       font-size: large;
+      text-shadow: black;
     }
 
     h4{ 
